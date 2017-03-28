@@ -1,3 +1,6 @@
+# Create an app the takes in 3 inputs (age, first letter of name, and eye color) and returns a fortune displayed on a card. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
